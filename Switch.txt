@@ -1,0 +1,3 @@
+Switch Logs collection 
+
+Primary EX/QFX juniper switches in primary phase .

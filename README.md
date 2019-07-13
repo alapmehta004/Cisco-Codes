@@ -5,4 +5,9 @@ Router not vendor specific .
 
 Cisco / Arista / Juniper to be consider in primary phase 
 
+Firewall will consider in next release
+
 Palo Alto / Checkpoint are will be consider 
+
+
+
